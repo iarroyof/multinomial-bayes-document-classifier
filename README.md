@@ -1,7 +1,7 @@
 multinomial-bayes-document-classifier
 =====================================
 
-This is a matlab library which is implemented a multinomial Bayes classifier for text document classification. 
+This is a matlab (6) library which is implemented a multinomial Bayes classifier for text document classification. 
 Send me a mail for using doubts. Any way, each function gives you a little help.
 
 For installing: 
