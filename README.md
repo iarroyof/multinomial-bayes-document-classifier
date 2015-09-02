@@ -6,7 +6,7 @@ Send me a mail for using doubts. Any way, each function gives you a little help.
 
 For installing: 
 
-1. Download from: https://drive.google.com/file/d/0B5ib8RE9UbbVQ0hvRENxQWNLTTg/edit?usp=sharing and unzip the library
+1. --- Canceled step ---
 
 2. Copy the whole folder into your hard disk (it is useful to choose a short route folder).
 
